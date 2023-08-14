@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>https://evanknight.me/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ccna/</loc>
+    <loc>https://evanknight.me/tags/ccna/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/ccna/</loc>
+    <loc>https://evanknight.me/series/ccna/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/ccna/</loc>
+    <loc>https://evanknight.me/posts/ccna/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/</loc>
+    <loc>https://evanknight.me/posts/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/series/</loc>
+    <loc>https://evanknight.me/series/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://evanknight.me/tags/</loc>
     <lastmod>2023-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/projects/projects/</loc>
+    <loc>https://evanknight.me/projects/projects/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>https://evanknight.me/projects/</loc>
   </url>
 </urlset>

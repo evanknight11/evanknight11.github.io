@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>https://evanknight.me/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 14 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://evanknight.me/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CCNA</title>
-      <link>/tags/ccna/</link>
+      <link>https://evanknight.me/tags/ccna/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ccna/</guid>
+      <guid>https://evanknight.me/tags/ccna/</guid>
       <description></description>
     </item>
     
